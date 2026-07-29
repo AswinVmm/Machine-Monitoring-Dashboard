@@ -55,3 +55,4 @@ Update this if the backend runs on a different host/port.
 2. Add live updates (WebSockets or short-interval polling) so the dashboard reflects new sensor readings automatically instead of requiring a manual refresh.
 3. Add automated tests (Jest for the API endpoints, React Testing Library for components) and basic authentication/authorization on the PATCH endpoint before allowing status changes.
 4. Add extra UI for manually adding,updating and deleting features in the dashboard syncornized with the database.
+5. Deploy this Dashboard using vercel and render for live access.
