@@ -1,0 +1,34 @@
+[
+    {
+        "id": "M-101",
+        "name": "CNC Lathe 1",
+        "status": "running",
+        "temperature": 68,
+        "vibration": 2.1,
+        "lastUpdated": "2026-07-23T09:00:00Z"
+    },
+    {
+        "id": "M-102",
+        "name": "Hydraulic Press",
+        "status": "fault",
+        "temperature": 92,
+        "vibration": 6.8,
+        "lastUpdated": "2026-07-23T09:01:00Z"
+    },
+    {
+        "id": "M-103",
+        "name": "Conveyor Belt A",
+        "status": "idle",
+        "temperature": 40,
+        "vibration": 0.3,
+        "lastUpdated": "2026-07-23T09:02:00Z"
+    },
+    {
+        "id": "M-104",
+        "name": "Welding Robot",
+        "status": "running",
+        "temperature": 75,
+        "vibration": 3.4,
+        "lastUpdated": "2026-07-23T09:03:00Z"
+    }
+]
