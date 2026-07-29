@@ -18,7 +18,7 @@ frontend/ React + Redux Toolkit app
 ```bash
 cd backend
 npm install
-npm start
+npm start/run dev
 ```
 API runs at `http://localhost:5000`.
 
